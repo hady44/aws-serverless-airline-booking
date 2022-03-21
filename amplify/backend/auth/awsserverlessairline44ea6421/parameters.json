@@ -46,6 +46,5 @@
     },
     "useDefault": "default",
     "userPoolGroupList": [],
-    "dependsOn": [],
-    "CreateAPIKey": 0
+    "dependsOn": []
 }
